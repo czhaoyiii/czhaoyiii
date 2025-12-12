@@ -7,15 +7,15 @@
 
 </div>
 
-- 🔭 I’m currently working on **full-stack software development projects**
+- 🔭 I’m currently working on **Agentic AI product development projects**
 
-- 🌱 I’m currently learning **Advanced React, Java, Cloud, and many more technologies**
+- 🌱 I’m currently learning **different strategies of utilizing AI Agents**
 
 <!-- 💻 Website: [Zhao Yi's site](https://czhaoyiii.github.io/)-->
 
 - 📫 How to reach me: **zzzhaoyi@gmail.com**
 
-- ⚡ What I like to do: **Code, soccer and socialising.**
+- ⚡ What I like to do: **Code, pickleball and socialising.**
 
 ### 🌱 Notable Coursework
 - CZ2002 Object Oriented Design & Programming
@@ -28,6 +28,8 @@
 - CZ4013 Distributed Systems
 - CZ4032 Database System Principles
 - CZ4062 Computer Security
+- CZ4046 Intelligent Agents
+- CZ4055 Cyber Physical System Security 
   
 <br />
 
