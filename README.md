@@ -13,7 +13,7 @@
 
 <!-- 💻 Website: [Zhao Yi's site](https://czhaoyiii.github.io/)-->
 
-- 📫 How to reach me: **zzzhaoyi@gmail.com**
+- 📫 How to reach me: **zz_zhao_yi@hotmail.com**
 
 - ⚡ What I like to do: **Code, pickleball and socialising.**
 
