@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zhao Yi.</h1>
-<h3 align="center">I am a Final Year Computer Science Student studying at Nanyang Technological University!</h3>
+<h3 align="center">I am a Computer Science Graduate from Nanyang Technological University!</h3>
 <div align="center">
   
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://sg.linkedin.com/in/zhaoyi-chan)
